@@ -9,7 +9,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Tejas0901",
   resume:
-    "https://drive.google.com/file/d/1IMCImpFC20BZDOvYIuc2kF-ZYF89txrM/view?usp=sharing",
+    "https://drive.google.com/file/d/10jehuv-0mKsSFBCc23qpfSTJSNKumLcP/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/tejas-nigam-670923228 ",
   twitter: "https://x.com/Tejas_xoxo",
   insta: "https://www.instagram.com/t_e_j_a_s_______/",
