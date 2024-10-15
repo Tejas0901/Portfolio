@@ -159,7 +159,7 @@ export const experiences = [
       "React Js"
 
     ],
-    //doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
+    doc: "https://github.com/Tejas0901/Images/blob/main/Screenshot%202024-10-15%20130308.png",
   },
   // {
   //   id: 1,
@@ -187,28 +187,9 @@ export const experiences = [
     role: "Open Source Contributor ",
     company: "GirlScript Summer of Code",
     date: "May 2024 - July 2024",
-    desc: "Contributing to different open-source projects and learn from industry experts",
+    desc: "Contributing to different open-source projects and learn from industry experts. Enhanced project designs, functionality, and performance through dedicated contributions. Identified and resolved bugs, improving overall project reliability and user experience. Implemented optimizations to enhance project performance, ensuring smooth functionality",
     //doc: "https://media.licdn.com/dms/image/D4D22AQGzSpgFaR4hsQ/feedshare-shrink_800/0/1684079632872?e=1687996800&v=beta&t=i0xWn_k32Oj9SxKfc6rARSbOghXD9Ge6WyEb2p2vvrc",
   },
-  // {
-  //   id: 4,
-  //   img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Rudraksha.jpeg?alt=media&token=8f83f41e-d0a1-486f-9c7f-dd4cd1d09e8d",
-  //   role: "Android Developer Intern",
-  //   company: "Rudraksha Welffare Foundation",
-  //   date: "June 2021 - Oct 2021",
-  //   desc: "As an Android Developer Intern at Rudraksha Welfare Foundation from June 2021 to October 2021, I gained valuable hands-on experience in application development. During my tenure, I contributed to the development of the application's back-end cloud functions using Firebase and implemented a front-end with the MVVM structure, which was designed using Figma. I also added a one-to-one video call feature, conceptualized new features, and optimized app performance. This internship helped me enhance my skills in Android development and gave me an opportunity to work in a collaborative team environment.",
-  //   skills: [
-  //     "Android",
-  //     "Java",
-  //     "Kotlin",
-  //     "XML",
-  //     "Node Js",
-  //     "Cloud Firestore",
-  //     "Firebase",
-  //     "Figma",
-  //   ],
-  //   doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/WhatsApp%20Image%202023-05-05%20at%2012.07.39%20AM.jpeg?alt=media&token=9f0e1648-568b-422d-bd0b-1f125f722245",
-  // },
 ];
 
 export const education = [
@@ -237,13 +218,13 @@ export const education = [
     date: "Apr 2017 - Apr 2019",
     grade: "85.6%",
     desc: "I completed my class 10 education at King George Inter College, Barabanki, where I studied Science with Physical Education.",
-    degree: "ICSC(X), Science with Physical Education",
+    degree: "ICSE(X), Science with Physical Education",
   },
 ];
 
 export const projects = [
   {
-    id: 9,
+    id: 0,
     title: "Daily News",
     date: "Sept 2023 - Oct 2023",
     description:
@@ -260,64 +241,38 @@ export const projects = [
     github: "https://github.com/Tejas0901/DailyNews",
   },
   {
-    id: 0,
+    id: 1,
     title: "ClimaCheck",
     date: "Dec 2023 - Jan 2024",
     description:
       "Developed a web based weather application providing real-time weather updates and forecasts for specified locations. Key features are Real-time weather updates, location-based weather updates, responsive design. ",
     image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+      "https://github.com/Tejas0901/ClimaCheck-A-Weather-App/blob/main/Screenshot%202024-10-15%20121756.png?raw=true",
     tags: ["HTML", "Tailwind CSS", "JavaScript","React Js", "WeatherStackApi"],
     category: "web app",
     github: "https://github.com/Tejas0901/ClimaCheck-A-Weather-App",
-    //webapp: "https://podstream.netlify.app/",
+    webapp: "https://climacheck-a-weather-app.onrender.com/",
   },
-  // {
-  //   id: 1,
-  //   title: "Brain Tumor Detection",
-  //   date: "Jan 2023 - Mar 2023",
-  //   description:
-  //     "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
-  //   image:
-  //     "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
-  //   tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
-  //   category: "machine learning",
-  //   github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
-  //   webapp: "https://brain-tumor.netlify.app/",
-  //   member: [
-  //     {
-  //       name: "Rishav Chanda",
-  //       img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-  //       linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-  //       github: "https://github.com/rishavchanda/",
-  //     },
-  //     {
-  //       name: "Upasana Chaudhuri",
-  //       img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-  //       linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-  //       github: "https://github.com/upasana0710",
-  //     },
-  //   ],
-  // },
-  // {
-  //   id: 2,
-  //   title: "Todo Web App",
-  //   date: "Jun 2021",
-  //   description:
-  //     " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
-  //   image:
-  //     "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
-  //   tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
-  //   category: "web app",
-  //   github: "https://github.com/rishavchanda/Todo-Web-App",
-  //   webapp: "https://rishav-react-todo.netlify.app/",
-  // },
+
+  {
+    id: 2,
+    title: "Todo Web App",
+    date: "Jun 2021",
+    description:
+      " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
+    image:
+      "https://github.com/Tejas0901/Images/blob/main/Screenshot%202024-10-15%20131749.png",
+    tags: ["HTML","Tailwind CSS","JavaScript","React Js", "Node JS"],
+    category: "web app",
+    // github: "https://github.com/rishavchanda/Todo-Web-App",
+    // webapp: "https://rishav-react-todo.netlify.app/",
+  },
 ];
 
-export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
-];
+// export const TimeLineData = [
+//   { year: 2017, text: "Started my journey" },
+//   { year: 2018, text: "Worked as a freelance developer" },
+//   { year: 2019, text: "Founded JavaScript Mastery" },
+//   { year: 2020, text: "Shared my projects with the world" },
+//   { year: 2021, text: "Started my own platform" },
+// ];
