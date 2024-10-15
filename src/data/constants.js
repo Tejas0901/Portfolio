@@ -259,7 +259,7 @@ export const projects = [
     title: "Todo Web App",
     date: "Jun 2021",
     description:
-      " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
+      " A basic To-Do list web app in React.js features a simple interface for users to add, edit, delete, and mark tasks as completed. It uses state management to store tasks in an array, updating the state upon user actions.",
     image:
       "https://github.com/Tejas0901/Images/blob/main/Screenshot%202024-10-15%20131749.png?raw=true",
     tags: ["HTML","Tailwind CSS","JavaScript","React Js", "Node JS"],
