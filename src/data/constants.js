@@ -159,7 +159,7 @@ export const experiences = [
       "React Js"
 
     ],
-    doc: "https://github.com/Tejas0901/Images/blob/main/Screenshot%202024-10-15%20130308.png",
+    doc: "https://github.com/Tejas0901/Images/blob/main/Screenshot%202024-10-15%20130308.png?raw=true",
   },
   // {
   //   id: 1,
