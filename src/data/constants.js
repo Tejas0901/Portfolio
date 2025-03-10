@@ -9,7 +9,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Tejas0901",
   resume:
-    "https://drive.google.com/file/d/10jehuv-0mKsSFBCc23qpfSTJSNKumLcP/view?usp=sharing",
+    "https://drive.google.com/file/d/1XGMOB_swjRVXcGD5zR_H1UF4ykvp0nZC/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/tejas-nigam-670923228 ",
   twitter: "https://x.com/Tejas_xoxo",
   insta: "https://www.instagram.com/t_e_j_a_s_______/",
@@ -89,31 +89,6 @@ export const skills = [
       },
     ],
   },
-  // {
-  //   title: "Android",
-  //   skills: [
-  //     {
-  //       name: "Java",
-  //       image:
-  //         "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
-  //     },
-  //     {
-  //       name: "Kotlin",
-  //       image:
-  //         "https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg",
-  //     },
-  //     {
-  //       name: "XML",
-  //       image:
-  //         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBMw6_RdwKQ9bDFfnKDX1iwMl4bVJEvd9PP53XuIw&s",
-  //     },
-  //     {
-  //       name: "Android Studio",
-  //       image:
-  //         "https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png",
-  //     },
-  //   ],
-  // },
   {
     title: "Others",
     skills: [
@@ -127,11 +102,11 @@ export const skills = [
         image:
           "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
       },
-      //{
-      //   name: "Docker",
-      //   image:
-      //     "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg",
-      // },
+      {
+        name: "Docker",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg",
+      },
       {
         name: "VS Code",
         image:
@@ -159,28 +134,9 @@ export const experiences = [
       "React Js"
 
     ],
-    //doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
+    doc: "https://github.com/Tejas0901/Images/blob/main/Screenshot%202025-03-10%20163331.png?raw=true",
   },
-  // {
-  //   id: 1,
-  //   img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-  //   role: "Fullstack Externship",
-  //   company: "Flipr",
-  //   date: "June 2023 - July 2023",
-  //   desc: "Built an employee management full stack web app used Docker and deployed on AWS ec2. I was the top performer in the program.",
-  //   skills: [
-  //     "ReactJS",
-  //     "Redux",
-  //     "NodeJs",
-  //     "Material UI",
-  //     "HTML",
-  //     "CSS",
-  //     "JavaScript",
-  //     "Docker",
-  //     "AWS",
-  //     "MongoDB",
-  //   ],
-  // },
+  
   {
     id: 2,
     img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/girlScript.jpeg?alt=media&token=e656a621-cf3c-4230-bf0f-e74b4cec6035",
@@ -188,27 +144,7 @@ export const experiences = [
     company: "GirlScript Summer of Code",
     date: "May 2024 - July 2024",
     desc: "Contributing to different open-source projects and learn from industry experts",
-    //doc: "https://media.licdn.com/dms/image/D4D22AQGzSpgFaR4hsQ/feedshare-shrink_800/0/1684079632872?e=1687996800&v=beta&t=i0xWn_k32Oj9SxKfc6rARSbOghXD9Ge6WyEb2p2vvrc",
   },
-  // {
-  //   id: 4,
-  //   img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Rudraksha.jpeg?alt=media&token=8f83f41e-d0a1-486f-9c7f-dd4cd1d09e8d",
-  //   role: "Android Developer Intern",
-  //   company: "Rudraksha Welffare Foundation",
-  //   date: "June 2021 - Oct 2021",
-  //   desc: "As an Android Developer Intern at Rudraksha Welfare Foundation from June 2021 to October 2021, I gained valuable hands-on experience in application development. During my tenure, I contributed to the development of the application's back-end cloud functions using Firebase and implemented a front-end with the MVVM structure, which was designed using Figma. I also added a one-to-one video call feature, conceptualized new features, and optimized app performance. This internship helped me enhance my skills in Android development and gave me an opportunity to work in a collaborative team environment.",
-  //   skills: [
-  //     "Android",
-  //     "Java",
-  //     "Kotlin",
-  //     "XML",
-  //     "Node Js",
-  //     "Cloud Firestore",
-  //     "Firebase",
-  //     "Figma",
-  //   ],
-  //   doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/WhatsApp%20Image%202023-05-05%20at%2012.07.39%20AM.jpeg?alt=media&token=9f0e1648-568b-422d-bd0b-1f125f722245",
-  // },
 ];
 
 export const education = [
@@ -237,53 +173,24 @@ export const education = [
     date: "Apr 2017 - Apr 2019",
     grade: "85.6%",
     desc: "I completed my class 10 education at King George Inter College, Barabanki, where I studied Science with Physical Education.",
-    degree: "ICSC(X), Science with Physical Education",
+    degree: "ICSE(X), Science with Physical Education",
   },
 ];
 
 export const projects = [
-  {
-    id: 9,
-    title: "Daily News",
-    date: "Sept 2023 - Oct 2023",
-    description:
-      "A news website with a seamless API integration delivers real-time updates, personalized content, and diverse sources, ensuring a dynamic and engaging user experience.",
-    image:
-      "https://github.com/Tejas0901/DailyNews/blob/main/Screenshot%202024-05-27%20164524.png?raw=true",
-    tags: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "NewsApi",
-    ],
-    category: "web app",
-    github: "https://github.com/Tejas0901/DailyNews",
-  },
+
   {
     id: 0,
-    title: "ClimaCheck",
-    date: "Dec 2023 - Jan 2024",
+    title: "MockTech - AI Powered Mock Interview Web App",
+    date: "Jan 2025 - Mar 2025",
     description:
-      "Developed a web based weather application providing real-time weather updates and forecasts for specified locations. Key features are Real-time weather updates, location-based weather updates, responsive design. ",
+      "Developed and integrated AI-based interview question generation and evaluation system. Built an interactive user interface to enhance the   user experience. Implemented speech recognition and sentiment analysis for real-time feedback. Optimized database performance for seamless question retrieval and result storage. Collaborated with a team to refine AI models for better interview accuracy. ",
     image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-    tags: ["HTML", "Tailwind CSS", "JavaScript","React Js", "WeatherStackApi"],
+      "https://github.com/Tejas0901/Images/blob/main/Screenshot%202025-03-10%20162702.png?raw=true",
+    tags: ["Next.js", "Gemini API", "Drizzle ORM "],
     category: "web app",
-    github: "https://github.com/Tejas0901/ClimaCheck-A-Weather-App",
-    //webapp: "https://podstream.netlify.app/",
-  },
-  // {
-  //   id: 1,
-  //   title: "Brain Tumor Detection",
-  //   date: "Jan 2023 - Mar 2023",
-  //   description:
-  //     "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
-  //   image:
-  //     "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
-  //   tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
-  //   category: "machine learning",
-  //   github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
-  //   webapp: "https://brain-tumor.netlify.app/",
+    github: "https://github.com/Tejas0901/MockTech---AI-Powered-Mock-Interview",
+    webapp: "https://mock-tech-ai-powered-mock-interview.vercel.app/",
   //   member: [
   //     {
   //       name: "Rishav Chanda",
@@ -291,27 +198,55 @@ export const projects = [
   //       linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
   //       github: "https://github.com/rishavchanda/",
   //     },
-  //     {
-  //       name: "Upasana Chaudhuri",
-  //       img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-  //       linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-  //       github: "https://github.com/upasana0710",
-  //     },
   //   ],
-  // },
-  // {
-  //   id: 2,
-  //   title: "Todo Web App",
-  //   date: "Jun 2021",
-  //   description:
-  //     " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
-  //   image:
-  //     "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
-  //   tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
-  //   category: "web app",
-  //   github: "https://github.com/rishavchanda/Todo-Web-App",
-  //   webapp: "https://rishav-react-todo.netlify.app/",
-  // },
+  },
+
+  {
+    id: 3,
+    title: "Blogify - A Blog Website",
+    date: "Jun 2024",
+    description:
+      " Developed RESTful APIs for user authentication, blog management, and commenting. Implemented user authentication using JWT and secure password hashing. Designed and integrated EJS templates for dynamic content rendering. Configured MongoDB and Mongoose for data storage and schema management. Utilized Multer for handling file uploads. Ensured responsive design and user-friendly interface with Bootstrap. +",
+    image:
+      "https://github.com/Tejas0901/Images/blob/adab90d8bc6d52c585fb21691937f210edf51740/Screenshot%202025-03-10%20161854.png?raw=true",
+    tags: ["EJS Template", "MongoDB", "Express JS", "Node JS"],
+    category: "web app",
+    github: "https://github.com/Tejas0901/Blogify",
+    webapp: "https://blogify-sepia-phi.vercel.app/",
+  },
+
+  {
+      id: 1,
+      title: "Daily News",
+      date: "Sept 2023 - Oct 2023",
+      description:
+        "A news website with a seamless API integration delivers real-time updates, personalized content, and diverse sources, ensuring a dynamic and engaging user experience.",
+      image:
+        "https://github.com/Tejas0901/DailyNews/blob/main/Screenshot%202024-05-27%20164524.png?raw=true",
+      tags: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "NewsApi",
+      ],
+      category: "web app",
+      github: "https://github.com/Tejas0901/DailyNews",
+    },
+
+    {
+    id: 2,
+    title: "ClimaCheck",
+    date: "Dec 2023 - Jan 2024",
+    description:
+      "Developed a web based weather application providing real-time weather updates and forecasts for specified locations. Key features are Real-time weather updates, location-based weather updates, responsive design. ",
+    image:
+      "https://github.com/Tejas0901/Images/blob/main/Screenshot%202025-03-10%20162906.png?raw=true",
+    tags: ["HTML", "Tailwind CSS", "JavaScript","React Js", "WeatherStackApi"],
+    category: "web app",
+    github: "https://github.com/Tejas0901/ClimaCheck-A-Weather-App",
+    webapp: "https://climacheck-a-weather-app.onrender.com/",
+  },
+
 ];
 
 export const TimeLineData = [
