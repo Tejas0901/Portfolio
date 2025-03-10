@@ -143,7 +143,7 @@ export const experiences = [
     role: "Open Source Contributor ",
     company: "GirlScript Summer of Code",
     date: "May 2024 - July 2024",
-    desc: "Contributing to different open-source projects and learn from industry experts",
+    desc: "Contributing to different open-source projects and learn from industry experts. Enhanced project designs, functionality, and performance through dedicated contributions. Identified and resolved bugs, improving overall project reliability and user experience. Implemented optimizations to enhance project performance, ensuring smooth functionality",
   },
 ];
 
@@ -249,10 +249,10 @@ export const projects = [
 
 ];
 
-export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
-];
+// export const TimeLineData = [
+//   { year: 2017, text: "Started my journey" },
+//   { year: 2018, text: "Worked as a freelance developer" },
+//   { year: 2019, text: "Founded JavaScript Mastery" },
+//   { year: 2020, text: "Shared my projects with the world" },
+//   { year: 2021, text: "Started my own platform" },
+// ];
